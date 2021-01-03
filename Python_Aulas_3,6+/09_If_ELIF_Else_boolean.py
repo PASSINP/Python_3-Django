@@ -5,7 +5,8 @@ Condições IF, Elif e Else
 # o que deve ser feito. Se uma ação deve ser feita caso seja verdadeiro ou outra caso seja 
 # falso. No caso o If é a primeira linha de verificação. Não se começa por else ou elif
 # Nunca esquecer de colocar o que você deseja verificar com if em uma identação (Tab ou 4
-# barras de espaço)
+# barras de espaço).
+# O if pode verificar qualquer coisa
 # O if só sera executado caso seja true o resultado. Caso seja False o if sera completamente
  #ignorado e o código rodara normalmente. Mas existe uma maneira de continuar caso seja falso
 if False:
