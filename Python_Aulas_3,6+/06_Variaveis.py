@@ -1,7 +1,6 @@
 # Uma variavel é algo que salvamos na memoria no computador. Ela armazena uma
 # inofrmação que pode ser chamada depois. Podendo ser algo simples como um texto
-# ou até mesmo algo mais complicado como uma função (Existem maneiras de ser
-# criar uma função, não é necessario sempre utilizar variavel para isso)
+# ou até mesmo algo mais complicado como uma função 
 
 # Para criar um variavel apenas delcare seu nome, coloque igual e em seguida o 
 # que você deseja colocar dentro da variavel
