@@ -15,3 +15,7 @@ print(type(nome))
 #Isso é feito somente por aparencia
 soma=2+2
 print(soma)
+
+# Variaveis podem ser alterada ao longo do caminho em Python.
+nome = "João"
+print(nome)
